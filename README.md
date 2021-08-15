@@ -14,4 +14,3 @@ test 3
 test 4 to use reset on me 
 
 test 5
-Bad commit -a commit that i want to delete  with revert going forward. 
