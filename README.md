@@ -9,3 +9,4 @@ This line was added in git
 let git kraken
 
 test 1
+test 2
