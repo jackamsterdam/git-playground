@@ -14,8 +14,8 @@ test 3
 test 4 to use reset on me 
 
 test 5
+<<<<<<< HEAD
 
 
-terereret 7
-test 8
-test 9
+=======
+>>>>>>> parent of e878378 (test 7)
